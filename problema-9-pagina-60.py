@@ -1,6 +1,0 @@
-A=set(input("Introduceti elementele multimii A formate din litere mari ale alfabetului latin  :" ))
-B=set(input("Introduceti elementele multimii B formate din litere mari ale alfabetului latin :"))
-print('Diferenta multimilor  A si B :', A.difference(B)) 
-print('Diferenta multimilor  B si A :', B.difference(A)) 
-print('Intersectia multimilor A si B: ',A.intersection(B) )
-print('Reuniunea multimilor A si B :', A.union(B))
